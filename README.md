@@ -159,12 +159,6 @@ Review these files before running the project in a new environment.
 - Add continuous integration checks for code quality and reproducibility.
 - Improve the web interface and deployment documentation.
 
-## License
 
-Add the license that matches the project's intended use and the licenses of the dataset and pretrained model. Do not assume that every dataset or pretrained model can be redistributed.
-
-## Author
-
-**YOUR NAME**
 
 GitHub: https://github.com/YOUR-USERNAME
