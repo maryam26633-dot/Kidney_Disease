@@ -1,4 +1,3 @@
-# Kidney_Disease
 # Kidney Disease Classification using VGG16
 
 A deep learning and MLOps project for classifying kidney CT scan images into **Normal** and **Tumor** categories using transfer learning with VGG16.
